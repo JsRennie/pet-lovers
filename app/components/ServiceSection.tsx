@@ -11,7 +11,7 @@ import {
 
 const ServiceSection = () => {
   return (
-    <section className="bg-slate-200 w-screen  pb-10">
+    <section className="bg-slate-200 pb-10">
       <div className="text-center pt-8">
         <h2 className="text-green-500 font-bold">Our Services</h2>
         <h1 className="text-orange-500 font-bold text-4xl">

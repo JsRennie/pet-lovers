@@ -8,8 +8,8 @@ import {
 
 const BookingSection = () => {
   return (
-    <section className="bg-slate-200 w-screen">
-      <div className="w-screen flex">
+    <section className="bg-slate-200">
+      <div className="flex">
         <div className="bg-orange-500 w-1/4 h-80 flex justify-center items-center ml-14">
           <div className="py-6">
             <form action="submit">

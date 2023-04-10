@@ -3,9 +3,9 @@ import { BiCheckDouble } from "react-icons/bi";
 
 const AboutSection = () => {
   return (
-    <section className="mt-8 mb-10 w-screen">
-      <div className="w-screen flex h-auto">
-        <div className="w-3/4 ml-14">
+    <section className="mx-14 mt-8 mb-10">
+      <div className="flex">
+        <div className="w-3/4">
           <div className="w-5/6">
             <h2 className="text-green-500 font-bold">About Us</h2>
             <h1 className="text-4xl font-bold text-orange-500 pt-2">
@@ -36,7 +36,7 @@ const AboutSection = () => {
             </button>
           </div>
         </div>
-        <div className="w-1/4 mr-14">
+        <div className="w-1/4">
           <div className="w-full h-40 bg-dog bg-no-repeat bg-center bg-cover"></div>
           <div className="flex w-full">
             <div className="w-1/2 h-40 bg-pet bg-no-repeat bg-center bg-cover"></div>

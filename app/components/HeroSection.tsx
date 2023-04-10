@@ -3,7 +3,7 @@ import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 
 const HeroSection = () => {
   return (
-    <section className="w-screen">
+    <section className="">
       <div className="h-96 bg-hero bg-no-repeat bg-center bg-cover">
         <div className="relative flex flex-col justify-center items-center h-full">
           <div className="text-center">

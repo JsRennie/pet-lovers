@@ -2,7 +2,7 @@ import React from "react";
 
 const Info = () => {
   return (
-    <section className="flex h-16 mx-14 ">
+    <section className="flex h-16 mx-14">
       <div className="flex items-center w-full justify-between">
         <div className="flex">
           <h1 className="text-4xl">

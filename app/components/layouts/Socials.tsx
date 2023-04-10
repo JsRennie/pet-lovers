@@ -32,7 +32,7 @@ const icons = [
 
 const Socials = () => {
   return (
-    <div className="bg-green-400 flex h-8 w-screen">
+    <div className="bg-green-400 flex h-8">
       <div className="text-white text-sm flex items-center ml-14">
         <div className="flex">
           <div className="justify-center border-r-2 pr-2">
